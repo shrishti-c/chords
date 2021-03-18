@@ -61,6 +61,14 @@ input[type="range"]{
     float: left;
    
 }
+#vol-icon{
+    cursor:pointer;
+    margin-top: 23em;
+    margin-left: -2.4em;;
+    float: left;
+
+   
+}
 .image {
     width: 25rem;
     height: 25rem;
